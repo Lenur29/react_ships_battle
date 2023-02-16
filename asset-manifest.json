@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_ships_battle/static/css/main.6710edac.css",
+    "main.js": "/react_ships_battle/static/js/main.0a65a653.js",
+    "index.html": "/react_ships_battle/index.html",
+    "main.6710edac.css.map": "/react_ships_battle/static/css/main.6710edac.css.map",
+    "main.0a65a653.js.map": "/react_ships_battle/static/js/main.0a65a653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6710edac.css",
+    "static/js/main.0a65a653.js"
+  ]
+}
