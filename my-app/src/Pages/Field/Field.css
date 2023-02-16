@@ -1,0 +1,18 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.field__table {
+  background-color: #fff;
+  margin-bottom: 30px;
+  border-collapse: collapse;
+}
+
+.field__row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,16 @@
+.field__button {
+  box-sizing: border-box;
+  background-color: black;
+  color: #fff;
+  border-radius: 20px;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  width: 150px;
+}
+
+.field__button:hover {
+  cursor: pointer;
+  background: linear-gradient(to bottom, #91eae4, #86a8e7, #7f7fd5);
+  color: #fff;
+}
